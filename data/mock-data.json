@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fender Telecaster",
+      "description": "Matte Black, Maple Fretboard, Humbucker Bridge, Single Coil Neck"
+    },
+    {
+      "id": 2,
+      "name": "Gibson Les Paul",
+      "description": "Gold Top, Rosewood Fretboard, Humbucker Neck and Bridge"
+    },
+    {
+      "id": 3,
+      "name": "PRS SE 245",
+      "description": "Sunburst, Rosewood Fretboard, Humbucker Neck and Bridge"
+    }
+  ]
+}
